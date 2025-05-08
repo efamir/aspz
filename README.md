@@ -4,3 +4,5 @@
 [Посилання на README](7/README.md)
 ### Практична 8
 [Посилання на README](8/README.md)
+### Практична 9
+[Посилання на README](9/README.md)
